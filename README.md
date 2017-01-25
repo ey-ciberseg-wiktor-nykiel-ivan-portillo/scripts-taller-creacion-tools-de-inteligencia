@@ -2,7 +2,10 @@
 
 Creación de tools de inteligencia
 
-Impartido por: Wiktor Nykiel e Ivan Portillo (Ernst &Young)
+Impartido por: 
+
+Wiktor Nykiel - https://www.linkedin.com/in/wiktornykiel/
+Ivan Portillo - https://www.linkedin.com/in/ivanportillomorales/ 
 
 Descripción del taller: 
 
