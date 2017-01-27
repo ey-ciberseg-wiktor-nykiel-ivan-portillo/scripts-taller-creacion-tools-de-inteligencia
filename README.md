@@ -28,3 +28,7 @@ Horario y lugar de impartición:
 26/01/2017 10:00 AM 
 Laboratorio LN7 de la Escuela Politécnica
 Universidad de Alcalá de Henares, Madrid
+
+
+Presentación: 
+http://www.slideshare.net/WiktorNykielLION/ey-spain-ciberseg-uah-2017-taller-de-creacin-de-tools-de-inteligencia-wiktor-nykiel-e-ivan-portillo-morales-equipo-de-inteligencia?trk=github
