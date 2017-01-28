@@ -32,3 +32,8 @@ Universidad de Alcalá de Henares, Madrid
 
 Presentación: 
 http://www.slideshare.net/WiktorNykielLION/ey-spain-ciberseg-uah-2017-taller-de-creacin-de-tools-de-inteligencia-wiktor-nykiel-e-ivan-portillo-morales-equipo-de-inteligencia?trk=github
+
+
+Referencias:
+Busqueda de texto similar, funciones de distancias, homofonía y Levenshtein entre otras:
+http://www.francescllorens.eu/00tokenizer/dst.php
